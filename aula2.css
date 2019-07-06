@@ -243,8 +243,8 @@
   margin:0;
   -webkit-transition:top .3s ease,opacity .3s ease;
   transition:top .3s ease,opacity .3s ease;
-  vertical-align:middle;
-  vertical-align:baseline;
+  vertical-align: middle;
+  vertical-align: baseline;
   opacity:0
  }
  .floating-label-form-group:not(:first-child) {
@@ -300,4 +300,3 @@
    max-width: 150px;
  }
 
- 
